@@ -3,18 +3,19 @@ Cadastro de Vaga de emprego com Java &amp; Spring Boot
 
 Aplifcação simples para controle de cadastro web de vagas de emprego com armaenamento em BD.
 
-Tecnologias utilizadas:
-Java 11
-Spring Boot
-Spring Web
-Spring Data JPA
-Maven
-Lombok
-Banco de Dados MySQL
+<h4>Tecnologias utilizadas:
+<li> Java 11
+<li> Spring Boot
+<li> Spring Web
+<li> Spring Data JPA
+<li> Maven
+<li> Lombok
+<li> Banco de Dados MySQL
 
-http://localhost:8080/empregos/
+  Access:<br>
+http://localhost:8080/empregos/<br>
 http://localhost:8080/add
 
-Contact:
-Email: antonioluizti@hotmail.com
+Contact:<br>
+Email: antonioluizti@hotmail.com<br>
 Linkedin: https://www.linkedin.com/in/antonio-luiz-8a873799/
