@@ -1,7 +1,7 @@
 # Projeto_Web_Java
 Cadastro de Vaga de emprego com Java &amp; Spring Boot
 
-Aplicação simples para controle de cadastro web de vagas de emprego com armaenamento em BD.
+Aplicação simples para controle de cadastro web de vagas de emprego com armazenamento em BD.
 
 <h4>Tecnologias utilizadas:
 <li> Java 11
