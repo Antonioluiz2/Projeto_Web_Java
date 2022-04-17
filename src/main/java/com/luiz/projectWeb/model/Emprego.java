@@ -4,7 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.validation.constraints.Size;
+
 
 //import org.hibernate.annotations.BatchSize;
 import org.springframework.lang.NonNull;
@@ -21,6 +21,7 @@ public class Emprego {
 	@Size(min=4)
 	private String titulo;
 	
+	@Size
 	@NonNull
 	@Size(min=3)
 	private String Empresa;
